@@ -30,5 +30,5 @@
 #### 7- Print all information about greatest uid.
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk7a.png?raw=true)
 #### 8- Get the sum of all accounts id’s.
-![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk8.png?raw=true
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk8a.png?raw=true
 )
