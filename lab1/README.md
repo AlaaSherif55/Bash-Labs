@@ -24,7 +24,7 @@
 #### 5- Print line from 5 to 15 from /etc/passwd
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/lab1linuxawk5.png?raw=true)
 #### 6- Change lp to mylp
-![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk6.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk6a.png?raw=true)
 #### 7- Print all information about greatest uid.
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk7.png?raw=true)
 #### 8- Get the sum of all accounts id’s.
