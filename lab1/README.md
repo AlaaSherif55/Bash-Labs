@@ -14,7 +14,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1-5.png?raw=true)
 ### Using awk utility
 #### 1- Print full name (comment) of all users in the system.
-![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxawk-1.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awl1.png?raw=true)
 #### 2- Print login, full name (comment) and home directory of all users.( Print each line preceded by a line number)
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk2.png?raw=true)
 #### 3- Print login, uid and full name (comment) of those uid is greater than 500
