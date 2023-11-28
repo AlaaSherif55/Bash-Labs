@@ -25,6 +25,8 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/lab1linuxawk5.png?raw=true)
 #### 6- Change lp to mylp
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk6a.png?raw=true)
+#### change lp to mylp and print only updated row
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk6adv.png?raw=true)
 #### 7- Print all information about greatest uid.
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab1/linuxlab1awk7.png?raw=true)
 #### 8- Get the sum of all accounts id’s.
