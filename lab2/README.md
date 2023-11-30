@@ -31,5 +31,5 @@
 #### d. –i: print inode number
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab2/bashlab2-6d.png?raw=true)
 #### e. –R: recursively list subdirectories
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab2/bashlab2-6e.png?raw=true)
 
