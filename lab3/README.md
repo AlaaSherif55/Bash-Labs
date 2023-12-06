@@ -28,7 +28,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab3/lab3bash5.png?raw=true)
 
 ### 6. Write a script called chkmail to check for new mails every 10 seconds. Note: mails are saved in /var/mail/username.
-![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab3/lab3bash-8.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab3/bashlab3-6.png?raw=true)
 
 ### 7. What is the output of the following script
 ![UNFOUND](
@@ -38,7 +38,7 @@
 #### b. Press 2 to ls –a
 #### c. Press 3 to exit
 #### Using select utility then while utility.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab3/lab3bash-8.png?raw=true)
 
 ### 9. Write a script called myarr that ask a user how many elements he wants to enter in an array, fill the array and then print it.
 ![UNFOUND](https://github.com/AlaaSherif55/Bash-Labs/blob/main/lab3/lab3bash-9.png?raw=true)
